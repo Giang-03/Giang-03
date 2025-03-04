@@ -23,6 +23,6 @@ I'm currently studying Business Administration at **San Jose City College**,
 
  
 ### 📫 How to reach me
-_ **LinkedIn**
-- **Email**
+_ **LinkedIn**: https://www.linkedin.com/in/giang-do-47a773350/
+- **Email**: Dnghuonggiang@gmail.com 
 - **Portfolio**: coming soon
