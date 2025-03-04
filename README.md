@@ -15,6 +15,9 @@ I'm currently studying Business Administration at **San Jose City College**,
   
 ### Currently Project
 - Develop a **Business resource management system**
+- Building a **Weather tracking application** and **Cloud computing**
+- Contributing to **open-resource documantation projects**
+- Developing a **student resourse management system**
 
  ### Technical skill
  | **Language** | **Tools** | **Concepts** |
@@ -23,7 +26,7 @@ I'm currently studying Business Administration at **San Jose City College**,
 
  
 ### 📫 How to reach me
-_ **LinkedIn**: https://www.linkedin.com/in/giang-do-47a773350/
+- **LinkedIn**: https://www.linkedin.com/in/giang-do-47a773350/
 - **Email**: Dnghuonggiang@gmail.com 
 - **Portfolio**: coming soon
 
