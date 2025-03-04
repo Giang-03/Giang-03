@@ -26,3 +26,8 @@ I'm currently studying Business Administration at **San Jose City College**,
 _ **LinkedIn**: https://www.linkedin.com/in/giang-do-47a773350/
 - **Email**: Dnghuonggiang@gmail.com 
 - **Portfolio**: coming soon
+
+ ![GitHub followers](https://img.shields.io/github/followers/Giang-03?style=social)
+ ![Header Image] (![image](https://github.com/user-attachments/assets/035d78d7-c6c8-491c-ba55-053b204e0c9d)
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Giang-03&show_icons=true&theme=radical)
+
